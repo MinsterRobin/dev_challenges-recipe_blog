@@ -33,6 +33,10 @@ const InfoLayout = styled.div`
     gap: 5px 14px;
     grid-template-columns: max-content max-content;
     grid-template-rows: max-content max-content;
+    
+    @media (max-width: 512px) {
+        gap: 3px 5px;
+    }
 `;
 
 const YieldInfoLayout = styled(InfoLayout)`

@@ -36,6 +36,18 @@ const InstructionsItem = styled.div`
     }
 `;
 
+const Source = styled.p`
+    font-family: var(--font-family-primary);
+    font-size: var(--font-size-regular);
+    font-weight: 400;
+    font-style: italic;
+    color: var(--color-text-gray-3);
+    
+    @media (max-width: 768px) {
+        font-size: var(--font-size-very-small);
+    }
+`;
+
 const Instructions = () => {
     return (
         <Layout>
@@ -47,6 +59,7 @@ const Instructions = () => {
             <InstructionsItem><ItemBullet>5</ItemBullet><p>Bake cheesecake for 55-70 minutes or until the center is almost set. When it’s done, the center of the cheesecake will slightly wobble if you gently shake the pan. Turn the oven off and open the oven door slightly. Let the cheesecake sit in the oven in the water bath as it cools down for 1 hour. Remove from the oven and water bath, then cool cheesecake completely at room temperature. Then refrigerate the cheesecake for at least 4 hours or overnight.</p></InstructionsItem>
             <InstructionsItem><ItemBullet>6</ItemBullet><p>Use a knife to loosen the chilled cheesecake from the rim of the springform pan, then remove the rim. Using a clean sharp knife, cut into slices for serving. For neat slices, wipe the knife clean and dip into warm water between each slice.</p></InstructionsItem>
             <InstructionsItem><ItemBullet>7</ItemBullet><p>Serve cheesecake with desired toppings. Cover and store leftover cheesecake in the refrigerator for up to 5 days.</p></InstructionsItem>
+            <Source>Source: https://sallysbakingaddiction.com/classic-cheesecake/</Source>
         </Layout>
     );
 };
