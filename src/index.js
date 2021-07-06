@@ -1,10 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import Index from './pages/Recipe/Index';
+import GlobalStyles from "./GlobalStyles";
 
 ReactDOM.render(
     <React.StrictMode>
-        <App />
+        <GlobalStyles>
+            <Index/>
+        </GlobalStyles>
     </React.StrictMode>,
     document.getElementById('root')
 );
