@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="720bbf9c-d8f9-4a9e-8952-00680993ea2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Overview.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Recipe/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Recipe/Index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Recipe/Ingredients.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Recipe/Ingredients.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Recipe/Instructions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Recipe/Instructions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Recipe/RecipeInfos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Recipe/RecipeInfos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +41,17 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Data\SKRiM\Projets\Dev\Dev_Challenges\Responsive\dev_challenges-recipe_blog\src\pages\Recipe" />
-      <recent name="F:\Data\SKRiM\Projets\Dev\Dev_Challenges\Responsive\dev_challenges-recipe_blog\src\pages" />
-      <recent name="F:\Data\SKRiM\Projets\Dev\Dev_Challenges\Responsive\dev_challenges-recipe_blog\public" />
-      <recent name="F:\Data\SKRiM\Projets\Dev\Dev_Challenges\Responsive\dev_challenges-recipe_blog\src\assets" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Data\SKRiM\Projets\Dev\Dev_Challenges\Responsive\dev_challenges-recipe_blog\src\assets" />
       <recent name="F:\Data\SKRiM\Projets\Dev\Dev_Challenges\Responsive\dev_challenges-recipe_blog\src\components" />
       <recent name="F:\Data\SKRiM\Projets\Dev\Dev_Challenges\Responsive\dev_challenges-recipe_blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Data\SKRiM\Projets\Dev\Dev_Challenges\Responsive\dev_challenges-recipe_blog" />
+      <recent name="F:\Data\SKRiM\Projets\Dev\Dev_Challenges\Responsive\dev_challenges-recipe_blog\src\pages\Recipe" />
+      <recent name="F:\Data\SKRiM\Projets\Dev\Dev_Challenges\Responsive\dev_challenges-recipe_blog\src\pages" />
+      <recent name="F:\Data\SKRiM\Projets\Dev\Dev_Challenges\Responsive\dev_challenges-recipe_blog\public" />
+      <recent name="F:\Data\SKRiM\Projets\Dev\Dev_Challenges\Responsive\dev_challenges-recipe_blog\src\assets" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -93,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625481635598</updated>
       <workItem from="1625481637641" duration="15171000" />
-      <workItem from="1625566704477" duration="3969000" />
+      <workItem from="1625566704477" duration="5476000" />
     </task>
     <task id="LOCAL-00001" summary="Init remote repo.">
       <created>1625482332947</created>
@@ -109,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625568993104</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="V1">
+      <created>1625571360616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625571360616</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,17 +124,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init remote repo." />
     <MESSAGE value="1er jet" />
-    <option name="LAST_COMMIT_MESSAGE" value="1er jet" />
+    <MESSAGE value="V1" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="755" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1625481872988">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="755" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1625481872988" />
-    <state x="574" y="171" key="CommitChangelistDialog2" timestamp="1625568991903">
+    <state x="574" y="171" key="CommitChangelistDialog2" timestamp="1625571360133">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="574" y="171" key="CommitChangelistDialog2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1625568991903" />
+    <state x="574" y="171" key="CommitChangelistDialog2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1625571360133" />
     <state width="2027" height="187" key="GridCell.Tab.0.bottom" timestamp="1625568972380">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
@@ -145,10 +152,10 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state width="2027" height="187" key="GridCell.Tab.0.right/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1625568972380" />
-    <state x="617" y="310" key="Vcs.Push.Dialog.v2" timestamp="1625568994771">
+    <state x="617" y="310" key="Vcs.Push.Dialog.v2" timestamp="1625571362077">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="617" y="310" key="Vcs.Push.Dialog.v2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1625568994771" />
+    <state x="617" y="310" key="Vcs.Push.Dialog.v2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1625571362077" />
     <state x="687" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1625481858024">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
